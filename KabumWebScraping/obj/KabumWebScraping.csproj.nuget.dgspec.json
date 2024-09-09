@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lhspinheiro\\Documents\\projects.net\\aulas c#\\cursoUdemy\\KabumWebScraping\\KabumWebScraping\\KabumWebScraping.csproj": {}
+    "C:\\Users\\lhspinheiro\\Documents\\projects.net\\KabumWebScraping\\KabumWebScraping\\KabumWebScraping.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lhspinheiro\\Documents\\projects.net\\aulas c#\\cursoUdemy\\KabumWebScraping\\KabumWebScraping\\KabumWebScraping.csproj": {
+    "C:\\Users\\lhspinheiro\\Documents\\projects.net\\KabumWebScraping\\KabumWebScraping\\KabumWebScraping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\aulas c#\\cursoUdemy\\KabumWebScraping\\KabumWebScraping\\KabumWebScraping.csproj",
+        "projectUniqueName": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\KabumWebScraping\\KabumWebScraping\\KabumWebScraping.csproj",
         "projectName": "KabumWebScraping",
-        "projectPath": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\aulas c#\\cursoUdemy\\KabumWebScraping\\KabumWebScraping\\KabumWebScraping.csproj",
+        "projectPath": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\KabumWebScraping\\KabumWebScraping\\KabumWebScraping.csproj",
         "packagesPath": "C:\\Users\\lhspinheiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\aulas c#\\cursoUdemy\\KabumWebScraping\\KabumWebScraping\\obj\\",
+        "outputPath": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\KabumWebScraping\\KabumWebScraping\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

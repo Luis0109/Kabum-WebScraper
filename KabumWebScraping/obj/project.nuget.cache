@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vcitw0MOvMQ=",
+  "dgSpecHash": "f07B2TqRqhM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\aulas c#\\cursoUdemy\\KabumWebScraping\\KabumWebScraping\\KabumWebScraping.csproj",
+  "projectFilePath": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\KabumWebScraping\\KabumWebScraping\\KabumWebScraping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lhspinheiro\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\lhspinheiro\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

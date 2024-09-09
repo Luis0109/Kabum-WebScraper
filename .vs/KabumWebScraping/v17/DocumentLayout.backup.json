@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\aulas c#\\cursoUdemy\\KabumWebScraping\\",
+  "WorkspaceRootPath": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\KabumWebScraping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{899C5CAC-19C6-4859-AE1D-0CDE429BA9CD}|KabumWebScraping\\KabumWebScraping.csproj|c:\\users\\lhspinheiro\\documents\\projects.net\\aulas c#\\cursoudemy\\kabumwebscraping\\kabumwebscraping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{899C5CAC-19C6-4859-AE1D-0CDE429BA9CD}|KabumWebScraping\\KabumWebScraping.csproj|c:\\users\\lhspinheiro\\documents\\projects.net\\kabumwebscraping\\kabumwebscraping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{899C5CAC-19C6-4859-AE1D-0CDE429BA9CD}|KabumWebScraping\\KabumWebScraping.csproj|solutionrelative:kabumwebscraping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{899C5CAC-19C6-4859-AE1D-0CDE429BA9CD}|KabumWebScraping\\KabumWebScraping.csproj|c:\\users\\lhspinheiro\\documents\\projects.net\\aulas c#\\cursoudemy\\kabumwebscraping\\kabumwebscraping\\driver\\webscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{899C5CAC-19C6-4859-AE1D-0CDE429BA9CD}|KabumWebScraping\\KabumWebScraping.csproj|solutionrelative:kabumwebscraping\\driver\\webscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{899C5CAC-19C6-4859-AE1D-0CDE429BA9CD}|KabumWebScraping\\KabumWebScraping.csproj|c:\\users\\lhspinheiro\\documents\\projects.net\\aulas c#\\cursoudemy\\kabumwebscraping\\kabumwebscraping\\packagesnecessarios.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{899C5CAC-19C6-4859-AE1D-0CDE429BA9CD}|KabumWebScraping\\KabumWebScraping.csproj|c:\\users\\lhspinheiro\\documents\\projects.net\\kabumwebscraping\\kabumwebscraping\\packagesnecessarios.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{899C5CAC-19C6-4859-AE1D-0CDE429BA9CD}|KabumWebScraping\\KabumWebScraping.csproj|solutionrelative:kabumwebscraping\\packagesnecessarios.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{899C5CAC-19C6-4859-AE1D-0CDE429BA9CD}|KabumWebScraping\\KabumWebScraping.csproj|c:\\users\\lhspinheiro\\documents\\projects.net\\aulas c#\\cursoudemy\\kabumwebscraping\\kabumwebscraping\\driver\\excelautomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{899C5CAC-19C6-4859-AE1D-0CDE429BA9CD}|KabumWebScraping\\KabumWebScraping.csproj|c:\\users\\lhspinheiro\\documents\\projects.net\\kabumwebscraping\\kabumwebscraping\\driver\\excelautomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{899C5CAC-19C6-4859-AE1D-0CDE429BA9CD}|KabumWebScraping\\KabumWebScraping.csproj|solutionrelative:kabumwebscraping\\driver\\excelautomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{899C5CAC-19C6-4859-AE1D-0CDE429BA9CD}|KabumWebScraping\\KabumWebScraping.csproj|c:\\users\\lhspinheiro\\documents\\projects.net\\aulas c#\\cursoudemy\\kabumwebscraping\\kabumwebscraping\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{899C5CAC-19C6-4859-AE1D-0CDE429BA9CD}|KabumWebScraping\\KabumWebScraping.csproj|c:\\users\\lhspinheiro\\documents\\projects.net\\kabumwebscraping\\kabumwebscraping\\driver\\webscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899C5CAC-19C6-4859-AE1D-0CDE429BA9CD}|KabumWebScraping\\KabumWebScraping.csproj|solutionrelative:kabumwebscraping\\driver\\webscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899C5CAC-19C6-4859-AE1D-0CDE429BA9CD}|KabumWebScraping\\KabumWebScraping.csproj|c:\\users\\lhspinheiro\\documents\\projects.net\\kabumwebscraping\\kabumwebscraping\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{899C5CAC-19C6-4859-AE1D-0CDE429BA9CD}|KabumWebScraping\\KabumWebScraping.csproj|solutionrelative:kabumwebscraping\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\aulas c#\\cursoUdemy\\KabumWebScraping\\KabumWebScraping\\Model\\Item.cs",
+              "DocumentMoniker": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\KabumWebScraping\\KabumWebScraping\\Model\\Item.cs",
               "RelativeDocumentMoniker": "KabumWebScraping\\Model\\Item.cs",
-              "ToolTip": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\aulas c#\\cursoUdemy\\KabumWebScraping\\KabumWebScraping\\Model\\Item.cs",
+              "ToolTip": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\KabumWebScraping\\KabumWebScraping\\Model\\Item.cs",
               "RelativeToolTip": "KabumWebScraping\\Model\\Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -47,11 +47,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "packagesNecessarios.txt",
-              "DocumentMoniker": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\aulas c#\\cursoUdemy\\KabumWebScraping\\KabumWebScraping\\packagesNecessarios.txt",
+              "DocumentMoniker": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\KabumWebScraping\\KabumWebScraping\\packagesNecessarios.txt",
               "RelativeDocumentMoniker": "KabumWebScraping\\packagesNecessarios.txt",
-              "ToolTip": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\aulas c#\\cursoUdemy\\KabumWebScraping\\KabumWebScraping\\packagesNecessarios.txt",
+              "ToolTip": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\KabumWebScraping\\KabumWebScraping\\packagesNecessarios.txt",
               "RelativeToolTip": "KabumWebScraping\\packagesNecessarios.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -60,25 +60,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ExcelAutomation.cs",
-              "DocumentMoniker": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\aulas c#\\cursoUdemy\\KabumWebScraping\\KabumWebScraping\\Driver\\ExcelAutomation.cs",
+              "DocumentMoniker": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\KabumWebScraping\\KabumWebScraping\\Driver\\ExcelAutomation.cs",
               "RelativeDocumentMoniker": "KabumWebScraping\\Driver\\ExcelAutomation.cs",
-              "ToolTip": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\aulas c#\\cursoUdemy\\KabumWebScraping\\KabumWebScraping\\Driver\\ExcelAutomation.cs",
+              "ToolTip": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\KabumWebScraping\\KabumWebScraping\\Driver\\ExcelAutomation.cs",
               "RelativeToolTip": "KabumWebScraping\\Driver\\ExcelAutomation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T21:12:39.936Z"
+              "WhenOpened": "2024-09-08T21:12:39.936Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "WebScraper.cs",
-              "DocumentMoniker": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\aulas c#\\cursoUdemy\\KabumWebScraping\\KabumWebScraping\\Driver\\WebScraper.cs",
+              "DocumentMoniker": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\KabumWebScraping\\KabumWebScraping\\Driver\\WebScraper.cs",
               "RelativeDocumentMoniker": "KabumWebScraping\\Driver\\WebScraper.cs",
-              "ToolTip": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\aulas c#\\cursoUdemy\\KabumWebScraping\\KabumWebScraping\\Driver\\WebScraper.cs",
+              "ToolTip": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\KabumWebScraping\\KabumWebScraping\\Driver\\WebScraper.cs",
               "RelativeToolTip": "KabumWebScraping\\Driver\\WebScraper.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T18:01:58.934Z",
               "EditorCaption": ""
@@ -87,11 +88,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\aulas c#\\cursoUdemy\\KabumWebScraping\\KabumWebScraping\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\KabumWebScraping\\KabumWebScraping\\Program.cs",
               "RelativeDocumentMoniker": "KabumWebScraping\\Program.cs",
-              "ToolTip": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\aulas c#\\cursoUdemy\\KabumWebScraping\\KabumWebScraping\\Program.cs",
+              "ToolTip": "C:\\Users\\lhspinheiro\\Documents\\projects.net\\KabumWebScraping\\KabumWebScraping\\Program.cs",
               "RelativeToolTip": "KabumWebScraping\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T17:56:37.465Z",
               "EditorCaption": ""

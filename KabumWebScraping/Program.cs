@@ -10,12 +10,10 @@ class Program {
         var web = new WebScraper(); //isntancia da classe
         var items = web.GetData();  //instacia do método que está dentro da classe que foi instanciada  
 
-
-
         var excelAutomation = new ExcelAutomation(); //instancia da classe responsável pela criação do excel
-        excelAutomation.SaveDataToExcel(items, @"C:\Users\lhspinheiro\Documents\projects.net\aulas c#\cursoUdemy\KabumWebScraping\KabumWebScraping\ExcelScraper\produtos.xlsx"); //salva o excel na pasta especificada
+        excelAutomation.SaveDataToExcel
+            (items, @"C:\Users\lhspinheiro\Documents\projects.net\KabumWebScraping\KabumWebScraping\ExcelScraper\produtos.xlsx"); //salva o excel na pasta especificada
 
-        
     }
 }
 
