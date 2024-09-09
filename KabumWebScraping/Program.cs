@@ -13,7 +13,7 @@ class Program {
 
 
         var excelAutomation = new ExcelAutomation(); //instancia da classe responsável pela criação do excel
-        excelAutomation.SaveDataToExcel(items, @"C:\Users\lhspinheiro\Documents\projects.net\excel\KabumWebScraper\produtos.xlsx"); //salva o excel na pasta especificada
+        excelAutomation.SaveDataToExcel(items, @"C:\Users\lhspinheiro\Documents\projects.net\aulas c#\cursoUdemy\KabumWebScraping\KabumWebScraping\ExcelScraper\produtos.xlsx"); //salva o excel na pasta especificada
 
         
     }
