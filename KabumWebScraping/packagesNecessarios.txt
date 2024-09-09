@@ -1,0 +1,7 @@
+-----Manage NuGet Packages necessários-----
+
+Data.Juggler.Excelerate
+Easy.Automation
+Selinium.Support
+Selenium.WebDriver
+Selinium.WebDriver.ChromeDriver
